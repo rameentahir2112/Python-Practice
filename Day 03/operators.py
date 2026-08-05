@@ -1,5 +1,5 @@
 # Assignment Operators
-
+"""
 x = 1 # same as x = 1
 x += 1 # x = x + 1
 x -= 1 # x = x - 1
@@ -13,7 +13,7 @@ x |= 1 # x = x | 1   OR operation
 x ^= 1 # x = x ^ 1   XOR operation
 x >>= 1 # x = x >> 1  Right shift
 x <<= 1 # x = x << 1  Left shift
-
+"""
 print('Addition:', 1 + 2)
 print('Subtraction:', 9 - 1)
 print('Subtraction:', 1 - 9)
